@@ -15,6 +15,7 @@ Overall comments on grading questions:
     - For the most part, yes.
     - The home page isn't called index.html, which is the traditional name.
     - The footer doesn't really seem necessary since the address already appears elsewhere.
+    - Hours could arguably be better presented in a table.
 
 3) Are the pages tolerably styled with Bootstrap?
     - For the most part, yes.

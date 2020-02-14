@@ -14,10 +14,9 @@ Overall comments on grading questions:
 2) Are the pages reasonably structured with HTML?
     - For the most part, yes.
     - The home page isn't called index.html, which is the traditional name.
-    - The How to Register and Absentees/Military/Federal pages are a little lengthy and could use a bit more internal structure.
+    - The footer doesn't really seem necessary since the address already appears elsewhere.
 
 3) Are the pages tolerably styled with Bootstrap?
     - For the most part, yes.
-    - The footer doesn't really seem necessary since the address appears elsewhere.
-    - The links to voter registration forms don't look like the other links for some reason.
+    - The links to voter registration forms are styled differently than the other links.
     - On the Board Members page, the right-side column doesn't align neatly.

@@ -21,3 +21,4 @@ Overall comments on grading questions:
     - For the most part, yes.
     - The links to voter registration forms are styled differently than the other links.
     - On the Board Members page, the right-side column doesn't align neatly.
+    - The right-side nav doesn't have active-link highlighting, so visitors can't keep track of where they are.
